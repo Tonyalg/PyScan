@@ -1,5 +1,5 @@
-PyScan - Herramienta de Escaneo en Python
-Descripción
+<h1>PyScan - Herramienta de Escaneo en Python</h1>
+<h2>Descripción</h2>
 
 PyScan es una herramienta de escaneo en Python que utiliza la biblioteca python-nmap para realizar escaneos de red. Esta herramienta proporciona una interfaz fácil de usar para explorar la topología de la red y descubrir dispositivos activos.
 Requisitos Previos
@@ -7,7 +7,6 @@ Requisitos Previos
 Antes de utilizar PyScan, asegúrate de tener instalado el paquete python-nmap. Puedes instalarlo fácilmente utilizando el siguiente comando:
 
 bash
-
 pip install python-nmap
 
 Instalación
