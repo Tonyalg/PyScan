@@ -23,11 +23,11 @@ Sigue los pasos a continuación para instalar y utilizar PyScan:
 
 3. Da permisos de ejecución al archivo principal:
 
-        chmod +x nombre_archivo
+        chmod +x PyScan.py
 
 4. Ejecuta PyScan:
 
-        ./nombre_archivo
+        ./PyScan.py
 
 <h2>Uso</h2>
 
