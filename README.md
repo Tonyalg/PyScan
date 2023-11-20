@@ -31,4 +31,4 @@ Sigue los pasos a continuación para instalar y utilizar PyScan:
 
 <h2>Uso</h2>
 
-Una vez que hayas seguido los pasos de instalación, puedes utilizar PyScan ejecutando el archivo principal. La herramienta te guiará a través de las opciones disponibles y te permitirá realizar escaneos de red de manera sencilla.
+Una vez que hayas seguido los pasos de instalación, puedes utilizar PyScan ejecutando el archivo principal. La herramienta te guiará a través de las opciones disponibles y te permitirá obtener los puertos abiertos de una determinada IP.
