@@ -1,34 +1,34 @@
-<h1>PyScan - Herramienta de Escaneo en Python</h1>
-<h2>Descripción</h2>
+<h1>PyScan - Python Scanning Tool</h1>
+<h2>Description</h2>
 
-PyScan es una herramienta de escaneo en Python que utiliza la biblioteca python-nmap para realizar escaneos de red. Esta herramienta proporciona una interfaz fácil de usar para explorar la topología de la red y descubrir dispositivos activos.
+PyScan is a Python scanning tool that utilizes the python-nmap library to perform network scans. This tool provides a user-friendly interface for exploring network topology and discovering active devices.
 
-<h2>Requisitos Previos</h2>
+<h2>Prerequisites</h2>
 
-Antes de utilizar PyScan, asegúrate de tener instalado el paquete python-nmap. Puedes instalarlo fácilmente utilizando el siguiente comando:
+Before using PyScan, make sure to have the python-nmap package installed. You can easily install it using the following command:
 
     pip install python-nmap
 
-<h2>Instalación</h2>
+<h2>Installation</h2>
 
-Sigue los pasos a continuación para instalar y utilizar PyScan:
+Follow the steps below to install and use PyScan:
 
-1. Clona este repositorio utilizando el siguiente comando:
+1. Clone this repository using the following command:
 
         git clone https://github.com/Tonyalg/PyScan.git
 
-2. Accede al directorio recién clonado:
+2. Navigate to the newly cloned directory:
 
         cd PyScan
 
-3. Da permisos de ejecución al archivo principal:
+3. Grant execution permissions to the main file:
 
         chmod +x PyScan.py
 
-4. Ejecuta PyScan:
+4. Run PyScan:
 
         ./PyScan.py
 
-<h2>Uso</h2>
+<h2>Usage</h2>
 
-Una vez que hayas seguido los pasos de instalación, puedes utilizar PyScan ejecutando el archivo principal. La herramienta te guiará a través de las opciones disponibles y te permitirá obtener los puertos abiertos de una determinada IP.
+Once you have followed the installation steps, you can use PyScan by executing the main file. The tool will guide you through the available options and allow you to retrieve open ports for a specific IP.
